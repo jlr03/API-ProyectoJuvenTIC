@@ -21,6 +21,9 @@ Las secciones mencionadas se encuentran en el repositorio mencionado anteriormen
 
 3. Por último ejecutar el proyecto "ProyectoJuvenTIC"
 
+## Diagrama de la Base de Datos
+[![bd.png](https://i.postimg.cc/FHLPVc04/bd.png)](https://postimg.cc/LJmBHJyC)
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
